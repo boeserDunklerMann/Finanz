@@ -1,0 +1,10 @@
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\bin\Debug\DA.Finance.Home.MVVM.ViewModel.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\bin\Debug\DA.Finance.Home.MVVM.ViewModel.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\bin\Debug\DA.Finance.Home.MVVM.Framework.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\bin\Debug\DA.Finance.Home.MVVM.Model.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\bin\Debug\DA.Finance.Home.MVVM.Framework.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\bin\Debug\DA.Finance.Home.MVVM.Model.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\obj\Debug\DA.Finance.Home.MVVM.ViewModel.csprojResolveAssemblyReference.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\obj\Debug\DA.Finance.Home.MVVM.ViewModel.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\obj\Debug\DA.Finance.Home.MVVM.ViewModel.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.ViewModel\obj\Debug\DA.Finance.Home.MVVM.ViewModel.pdb
