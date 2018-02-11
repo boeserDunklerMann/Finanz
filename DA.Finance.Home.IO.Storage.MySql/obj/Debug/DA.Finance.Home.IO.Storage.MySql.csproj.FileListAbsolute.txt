@@ -1,6 +1,0 @@
-X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Storage.MySql.dll
-X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Storage.MySql.pdb
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Storage.MySql\obj\Debug\DA.Finance.Home.IO.Storage.MySql.csprojResolveAssemblyReference.cache
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Storage.MySql\obj\Debug\DA.Finance.Home.IO.Storage.MySql.csproj.CoreCompileInputs.cache
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Storage.MySql\obj\Debug\DA.Finance.Home.IO.Storage.MySql.dll
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Storage.MySql\obj\Debug\DA.Finance.Home.IO.Storage.MySql.pdb

@@ -1,6 +1,0 @@
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.Model\bin\Debug\DA.Finance.Home.MVVM.Model.dll
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.Model\bin\Debug\DA.Finance.Home.MVVM.Model.pdb
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.Model\obj\Debug\DA.Finance.Home.MVVM.Model.csprojResolveAssemblyReference.cache
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.Model\obj\Debug\DA.Finance.Home.MVVM.Model.csproj.CoreCompileInputs.cache
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.Model\obj\Debug\DA.Finance.Home.MVVM.Model.dll
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.MVVM.Model\obj\Debug\DA.Finance.Home.MVVM.Model.pdb

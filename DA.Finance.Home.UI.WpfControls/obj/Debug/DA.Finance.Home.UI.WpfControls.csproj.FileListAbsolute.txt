@@ -1,0 +1,8 @@
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.UI.WpfControls.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.UI.WpfControls.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.MVVM.ViewModel.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.MVVM.Framework.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.MVVM.Model.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.MVVM.ViewModel.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.MVVM.Framework.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UI.WpfControls\bin\Debug\DA.Finance.Home.MVVM.Model.pdb

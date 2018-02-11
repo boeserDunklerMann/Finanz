@@ -1,5 +1,0 @@
-X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.Dto.dll
-X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.Dto.pdb
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Dto\obj\Debug\DA.Finance.Home.Dto.csproj.CoreCompileInputs.cache
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Dto\obj\Debug\DA.Finance.Home.Dto.dll
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Dto\obj\Debug\DA.Finance.Home.Dto.pdb

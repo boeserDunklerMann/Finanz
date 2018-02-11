@@ -1,6 +1,0 @@
-X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Storage.Contracts.dll
-X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Storage.Contracts.pdb
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Storage.Contracts\obj\Debug\DA.Finance.Home.IO.Storage.Contracts.csprojResolveAssemblyReference.cache
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Storage.Contracts\obj\Debug\DA.Finance.Home.IO.Storage.Contracts.csproj.CoreCompileInputs.cache
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Storage.Contracts\obj\Debug\DA.Finance.Home.IO.Storage.Contracts.dll
-X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Storage.Contracts\obj\Debug\DA.Finance.Home.IO.Storage.Contracts.pdb
