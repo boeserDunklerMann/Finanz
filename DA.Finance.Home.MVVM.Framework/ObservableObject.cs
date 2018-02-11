@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel;
 
 namespace DA.Finance.Home.MVVM.Framework
 {
-    public abstract class ObservableObject : INotifyPropertyChanged
+	public abstract class ObservableObject : INotifyPropertyChanged
     {
 		public event PropertyChangedEventHandler PropertyChanged;
 
