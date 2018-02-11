@@ -100,5 +100,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DA.Finance.Home.MVVM.ViewModel\DA.Finance.Home.MVVM.ViewModel.csproj">
+      <Project>{fbbd2183-4919-4c8a-bf71-7be17584d800}</Project>
+      <Name>DA.Finance.Home.MVVM.ViewModel</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

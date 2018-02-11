@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Finance.Home.MVVM.Model"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Finance.Home.MVVM.ViewModel", "DA.Finance.Home.MVVM.ViewModel\DA.Finance.Home.MVVM.ViewModel.csproj", "{FBBD2183-4919-4C8A-BF71-7BE17584D800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Finance.Home.UI.WpfControls", "DA.Finance.Home.UI.WpfControls\DA.Finance.Home.UI.WpfControls.csproj", "{252E0FE4-ACEE-40CB-A66D-74D825645A32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{FBBD2183-4919-4C8A-BF71-7BE17584D800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBBD2183-4919-4C8A-BF71-7BE17584D800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBBD2183-4919-4C8A-BF71-7BE17584D800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252E0FE4-ACEE-40CB-A66D-74D825645A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252E0FE4-ACEE-40CB-A66D-74D825645A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252E0FE4-ACEE-40CB-A66D-74D825645A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252E0FE4-ACEE-40CB-A66D-74D825645A32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +115,7 @@ Global
 		{400363CB-919C-4882-9C05-A70F8610BA41} = {23D1E394-8261-477B-9400-448288B1E403}
 		{4C0D9950-C297-4927-9E0B-8756FB31F27C} = {23D1E394-8261-477B-9400-448288B1E403}
 		{FBBD2183-4919-4C8A-BF71-7BE17584D800} = {23D1E394-8261-477B-9400-448288B1E403}
+		{252E0FE4-ACEE-40CB-A66D-74D825645A32} = {5B687B7E-3619-4E9F-9A85-E89992579873}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C19C0364-B592-45EB-90DE-B08A801F6D5C}
