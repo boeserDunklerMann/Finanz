@@ -1,0 +1,6 @@
+X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Serializer.JSON.dll
+X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Serializer.JSON.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Serializer.JSON\obj\Debug\DA.Finance.Home.IO.Serializer.JSON.csprojResolveAssemblyReference.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Serializer.JSON\obj\Debug\DA.Finance.Home.IO.Serializer.JSON.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Serializer.JSON\obj\Debug\DA.Finance.Home.IO.Serializer.JSON.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Serializer.JSON\obj\Debug\DA.Finance.Home.IO.Serializer.JSON.pdb

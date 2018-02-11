@@ -1,0 +1,8 @@
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Commons\bin\Debug\DA.Finance.Home.Commons.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Commons\bin\Debug\DA.Finance.Home.Commons.pdb
+X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.Commons.dll
+X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.Commons.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Commons\obj\Debug\DA.Finance.Home.Commons.csprojResolveAssemblyReference.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Commons\obj\Debug\DA.Finance.Home.Commons.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Commons\obj\Debug\DA.Finance.Home.Commons.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.Commons\obj\Debug\DA.Finance.Home.Commons.pdb

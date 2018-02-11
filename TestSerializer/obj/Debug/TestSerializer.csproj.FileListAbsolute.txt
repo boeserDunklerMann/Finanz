@@ -1,0 +1,7 @@
+X:\Visual Studio 2015\Projects\Finanz\binTempProjects\TestSerializer.exe.config
+X:\Visual Studio 2015\Projects\Finanz\binTempProjects\TestSerializer.exe
+X:\Visual Studio 2015\Projects\Finanz\binTempProjects\TestSerializer.pdb
+X:\Visual Studio 2015\Projects\Finanz\TestSerializer\obj\Debug\TestSerializer.csprojResolveAssemblyReference.cache
+X:\Visual Studio 2015\Projects\Finanz\TestSerializer\obj\Debug\TestSerializer.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2015\Projects\Finanz\TestSerializer\obj\Debug\TestSerializer.exe
+X:\Visual Studio 2015\Projects\Finanz\TestSerializer\obj\Debug\TestSerializer.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67714B22-D7E4-48CE-97EB-EAFAD9BA9788}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DA.Finance.Home.Commons</RootNamespace>
+    <AssemblyName>DA.Finance.Home.Commons</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\binD\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContractBinder.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DA.Finance.Home.IO.Serializer.Contracts\DA.Finance.Home.IO.Serializer.Contracts.csproj">
+      <Project>{765067A9-45AD-4847-86D8-D37E8BF2D286}</Project>
+      <Name>DA.Finance.Home.IO.Serializer.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DA.Finance.Home.IO.Serializer.JSON\DA.Finance.Home.IO.Serializer.JSON.csproj">
+      <Project>{D82FD098-4AF0-48FA-B4C1-7E828762CA5B}</Project>
+      <Name>DA.Finance.Home.IO.Serializer.JSON</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DA.Finance.Home.IO.Storage.MySql\DA.Finance.Home.IO.Storage.MySql.csproj">
+      <Project>{fb6fa5f8-b717-4fb9-b2ef-869d0b060f43}</Project>
+      <Name>DA.Finance.Home.IO.Storage.MySql</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DA.Finance.Home.Storage.Contracts\DA.Finance.Home.IO.Storage.Contracts.csproj">
+      <Project>{4653829b-3711-4344-b9e3-b1266d5a5e26}</Project>
+      <Name>DA.Finance.Home.IO.Storage.Contracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,13 @@
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\DA.Finance.Home.UnitTests.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\DA.Finance.Home.UnitTests.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\obj\Debug\DA.Finance.Home.UnitTests.csprojResolveAssemblyReference.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\obj\Debug\DA.Finance.Home.UnitTests.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\obj\Debug\DA.Finance.Home.UnitTests.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.UnitTests\obj\Debug\DA.Finance.Home.UnitTests.pdb

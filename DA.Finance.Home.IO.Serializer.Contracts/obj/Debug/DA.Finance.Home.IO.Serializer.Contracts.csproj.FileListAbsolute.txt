@@ -1,0 +1,5 @@
+X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Serializer.Contracts.dll
+X:\Visual Studio 2015\Projects\Finanz\binD\DA.Finance.Home.IO.Serializer.Contracts.pdb
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Serializer.Contracts\obj\Debug\DA.Finance.Home.IO.Serializer.Contracts.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Serializer.Contracts\obj\Debug\DA.Finance.Home.IO.Serializer.Contracts.dll
+X:\Visual Studio 2015\Projects\Finanz\DA.Finance.Home.IO.Serializer.Contracts\obj\Debug\DA.Finance.Home.IO.Serializer.Contracts.pdb
