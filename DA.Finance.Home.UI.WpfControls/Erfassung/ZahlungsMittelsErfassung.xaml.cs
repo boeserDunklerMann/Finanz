@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace DA.Finance.Home.UI.WpfControls
+namespace DA.Finance.Home.UI.WpfControls.Erfassung
 {
 	/// <summary>
-	/// Interaction logic for TextConverterControl.xaml
+	/// Interaction logic for ZahlungsMittelsErfassung.xaml
 	/// </summary>
-	public partial class TextConverterControl : UserControl
+	public partial class ZahlungsMittelsErfassung : UserControl
 	{
-		public TextConverterControl()
+		public ZahlungsMittelsErfassung()
 		{
 			InitializeComponent();
 		}

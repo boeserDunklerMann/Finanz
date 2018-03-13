@@ -34,6 +34,7 @@
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -44,13 +45,27 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TextConverterControl.xaml.cs">
-      <DependentUpon>TextConverterControl.xaml</DependentUpon>
+    <Compile Include="Erfassung\ArtikelKategorienErfassung.xaml.cs">
+      <DependentUpon>ArtikelKategorienErfassung.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Erfassung\ShopKategorienErfassung.xaml.cs">
+      <DependentUpon>ShopKategorienErfassung.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Erfassung\ZahlungsMittelsErfassung.xaml.cs">
+      <DependentUpon>ZahlungsMittelsErfassung.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="TextConverterControl.xaml">
+    <Page Include="Erfassung\ArtikelKategorienErfassung.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Erfassung\ShopKategorienErfassung.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Erfassung\ZahlungsMittelsErfassung.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -61,5 +76,6 @@
       <Name>DA.Finance.Home.MVVM.ViewModel</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

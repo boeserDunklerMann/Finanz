@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="DA.Finance.Home.UI.WpfControls.Erfassung.ZahlungsMittelsErfassung"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DA.Finance.Home.UI.WpfControls.Erfassung"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+	<UserControl.InputBindings>
+		<!-- TODO: Add InputBindings here, if necessary -->
+	</UserControl.InputBindings>
+		<StackPanel>
+		<Label Foreground="#FF9D00FF" FontWeight="Bold" FontSize="14">Zahlungsmittel</Label>
+		<Button Command="{Binding AddZMS}">+</Button>
+		<DataGrid x:Name="dgZMS" ItemsSource="{Binding ZMSList}" AutoGenerateColumns="True">
+		</DataGrid>
+		<StackPanel Orientation="Horizontal">
+			<Label>Bezeichnung</Label>
+			<TextBox Width="100" BorderThickness="1" Text="{Binding ElementName=dgZMS,Path=SelectedItem.Bezeichnung,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+		</StackPanel>
+		<StackPanel Orientation="Horizontal">
+			<Button Command="{Binding SaveZMSChanges}">Speichern</Button>
+			<Button Command="{Binding DiscardZMSChanges}">zurücksetzen</Button>
+		</StackPanel>
+	</StackPanel>
+</UserControl>
+<!--
+	So werden Events(Wpf: Commands) gebunden:
+	<StackPanel>
+		<TextBox x:Name="txtBesichtigungstermin" Text="{Binding SomeData, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+			<Button Command="{Binding DoSomeGuruAction_Command}">Hit Me!</Button>
+	</StackPanel>
+-->

@@ -1,0 +1,18 @@
+﻿<Window x:Class="TestErfassung.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:ViewModel="clr-namespace:DA.Finance.Home.MVVM.ViewModel.Erfassung;assembly=DA.Finance.Home.MVVM.ViewModel"
+		xmlns:View="clr-namespace:DA.Finance.Home.UI.WpfControls.Erfassung;assembly=DA.Finance.Home.UI.WpfControls"
+		mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+	<Window.DataContext>
+		<ViewModel:WerteHilfenErfassungPresenter x:Name="zmsErfPresenter"/>
+	</Window.DataContext>
+	<StackPanel>
+		<View:ZahlungsMittelsErfassung x:Name="vErfassungZMs"/>
+		<View:ArtikelKategorienErfassung/>
+		<View:ShopKategorienErfassung/>
+	</StackPanel>
+</Window>

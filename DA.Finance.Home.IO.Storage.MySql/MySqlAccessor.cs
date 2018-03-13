@@ -83,7 +83,7 @@ namespace DA.Finance.Home.IO.Storage.MySql
 
 		public void WriteShopKatekorien(string data)
 		{
-			WriteData("ShopKateegorien", "SK_Data", "SK_ID", data);
+			WriteData("ShopKategorien", "SK_Data", "SK_ID", data);
 		}
 
 		public void WriteZahlungsmittels(string data)

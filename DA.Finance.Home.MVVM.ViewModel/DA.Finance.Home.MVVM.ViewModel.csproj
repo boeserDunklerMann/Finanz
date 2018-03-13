@@ -16,7 +16,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\binD\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -40,10 +40,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Erfassung\WerteHilfenErfassungPresenter.cs" />
     <Compile Include="Presenter.cs" />
+    <Compile Include="PresenterBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DA.Finance.Home.Commons\DA.Finance.Home.Commons.csproj">
+      <Project>{67714b22-d7e4-48ce-97eb-eafad9ba9788}</Project>
+      <Name>DA.Finance.Home.Commons</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DA.Finance.Home.Dto\DA.Finance.Home.Dto.csproj">
+      <Project>{4ffa6ebb-284f-470e-a19b-4b1b6e6848f6}</Project>
+      <Name>DA.Finance.Home.Dto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DA.Finance.Home.IO.Serializer.Contracts\DA.Finance.Home.IO.Serializer.Contracts.csproj">
+      <Project>{765067a9-45ad-4847-86d8-d37e8bf2d286}</Project>
+      <Name>DA.Finance.Home.IO.Serializer.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DA.Finance.Home.MVVM.Framework\DA.Finance.Home.MVVM.Framework.csproj">
       <Project>{400363cb-919c-4882-9c05-a70f8610ba41}</Project>
       <Name>DA.Finance.Home.MVVM.Framework</Name>
@@ -51,6 +65,10 @@
     <ProjectReference Include="..\DA.Finance.Home.MVVM.Model\DA.Finance.Home.MVVM.Model.csproj">
       <Project>{4c0d9950-c297-4927-9e0b-8756fb31f27c}</Project>
       <Name>DA.Finance.Home.MVVM.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DA.Finance.Home.Storage.Contracts\DA.Finance.Home.IO.Storage.Contracts.csproj">
+      <Project>{4653829b-3711-4344-b9e3-b1266d5a5e26}</Project>
+      <Name>DA.Finance.Home.IO.Storage.Contracts</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
